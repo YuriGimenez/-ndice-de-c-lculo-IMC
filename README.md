@@ -1,3 +1,3 @@
-# índice-de-cálculo-IMC
+# Cálculo IMC
 Projeto Calculo de IMC
 Usando puro JavaScript, css html
